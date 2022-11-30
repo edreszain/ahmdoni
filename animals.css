@@ -153,51 +153,51 @@ input{
     margin-top: -20px;
 }
 #doni:hover{
-    background-color: rgb(108, 151, 186);
+    background-color:rgb(127, 238, 100);
     width: 100px;
-    border-radius: 5px;
+    border-radius: 30px;
     text-align: center;
     transition: 0.5s;
 }
     #doni1:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
     #doni2:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
     #doni3:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
     #doni4:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
     #doni5:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
     #doni6:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
@@ -216,9 +216,9 @@ input{
         transition: 0.5s;
     }
     #doni9:hover{
-        background-color: rgb(108, 151, 186);
+        background-color:rgb(127, 238, 100);
         width: 100px;
-        border-radius: 5px;
+        border-radius: 30px;
         text-align: center;
         transition: 0.5s;
     }
@@ -404,7 +404,7 @@ input{
     #elephants:checked ~ .tag5,
     #tigers:checked ~ .tag6
     {
-        background-color: #333333;      
+        background-color: #10dc2b;      
         color: white;
     } 
      
